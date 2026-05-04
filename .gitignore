@@ -1,0 +1,14 @@
+documents/*
+vector_stores/*
+.venv/*
+pdf_loader_yt.ipynb
+
+# Secrets and local env (copy .env.example to .env locally)
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
